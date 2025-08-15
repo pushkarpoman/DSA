@@ -10,7 +10,7 @@ class program455
             boolean bret = false;
             Scanner sobj = new Scanner(System.in);
 
-            System.out.println("Enter the file name that you want to open : ");
+            System.out.println("Enter the file name that you want to open :  ");
             String name = sobj.nextLine();
 
             File fobj = new File(name);
