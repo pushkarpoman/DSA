@@ -38,6 +38,5 @@ class program459
         {
             System.out.println("Exception occured.."+eobj);
         }
-
     }
 }
