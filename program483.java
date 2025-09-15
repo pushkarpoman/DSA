@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 
+
 class program483
 {
     public static void main(String Arg[])
