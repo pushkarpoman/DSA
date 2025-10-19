@@ -103,6 +103,7 @@ class SinglyLL
     }
 }
 
+
 class program508
 {
     public static void main(String Arg[])
