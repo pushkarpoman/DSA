@@ -1,6 +1,7 @@
 import java.util.*;
 
 class program527
+    
 {
     public static boolean BinarySearch(int Brr[], int iNo)
     {
