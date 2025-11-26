@@ -1,8 +1,10 @@
 import java.util.*;
 
 class program538
+    
 {
     public static void main(String Arg[])
+    
     {
         LinkedList <Integer>lobj = new LinkedList<Integer>();
 
