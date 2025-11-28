@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int CountDigits(int iNo)
+
 {
     int iDigit = 0, iCount = 0;
 
@@ -19,6 +20,7 @@ int CountDigits(int iNo)
 }
 
 int main()
+
 {
     int iValue = 0, iRet = 0;
 
