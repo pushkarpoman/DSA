@@ -2,6 +2,7 @@
 #include<stdlib.h>
 
 void AdditionEvenOdd(int Arr[], int iSize)
+
 {
     int iCnt = 0;
     int iSumEven = 0, iSumOdd = 0;
@@ -22,6 +23,7 @@ void AdditionEvenOdd(int Arr[], int iSize)
 }
 
 int main()
+
 {
     int *ptr = NULL;
     int iLength = 0, iCnt = 0;
