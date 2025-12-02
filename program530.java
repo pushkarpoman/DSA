@@ -28,6 +28,7 @@ class program530
     }
 
     public static void main(String Arg[])
+    
     {
         Scanner sobj = new Scanner(System.in); 
         int i = 0, iSize = 0;
