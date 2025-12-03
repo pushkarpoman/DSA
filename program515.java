@@ -1,4 +1,5 @@
 class node
+    
 {
     public int data;
     public node next;
@@ -13,6 +14,7 @@ class node
 }
 
 class DoublyCL
+    
 {
     public node head;
     public node tail;
@@ -26,6 +28,7 @@ class DoublyCL
     }
 
     public void InsertFirst(int no)
+    
     {
         node newn = new node(no);
 
@@ -48,6 +51,7 @@ class DoublyCL
     }
 
     public void InsertLast(int no)
+    
     {
         node newn = new node(no);
 
@@ -69,6 +73,7 @@ class DoublyCL
 }
 
 class program515
+    
 {
     public static void main(String Arg[])
     {
