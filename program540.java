@@ -1,6 +1,7 @@
 import java.util.*;
 
 class program540
+    
 {
     public static void main(String Arg[])
     {
