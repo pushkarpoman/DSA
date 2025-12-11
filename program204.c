@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int main()
+
 {
     int No = 87;
 
@@ -9,4 +10,5 @@ int main()
     printf("Number in Hexadecimal format : %x\n",No);
     
     return 0;
+    
 }
