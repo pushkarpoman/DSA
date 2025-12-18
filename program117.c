@@ -11,10 +11,12 @@
 #include<stdio.h>
 
 void Display(int iRow, int iCol)
+
 {
     int i = 0, j = 0;
 
     //    1       2      3     
+   
     for(i = 1; i<=iRow; i++)       // Outer (Rows)
     {   //    1       2       3      
         for(j =1; j <= iCol; j++)  // Inner (Columns)
@@ -26,6 +28,7 @@ void Display(int iRow, int iCol)
 }
 
 int main()
+
 {
     int iValue1 = 0, iValue2 = 0;
 
