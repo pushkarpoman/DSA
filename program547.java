@@ -15,6 +15,7 @@ class Employee
         Eage = C;
         Eaddress = D;  
         Esalary = E;
+        
     }
 
     public void DisplayInforation()
