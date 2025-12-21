@@ -39,6 +39,7 @@ int main()
 
     printf("Enter number of columns : \n");
     scanf("%d",&iValue2);
+
     
     Display(iValue1, iValue2);
 
