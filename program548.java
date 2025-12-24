@@ -21,6 +21,7 @@ class Employee
     {
         System.out.println("Employee no : "+Eno+" Name : "+Ename+" Address : "+Eaddress+" Age : "+Eage+" Salary : "+Esalary);
     }
+    
 }
 
 class program548
