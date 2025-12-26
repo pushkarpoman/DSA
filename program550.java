@@ -47,7 +47,6 @@ class program550
     {
         MarvellousDBMS mobj = new MarvellousDBMS();
 
-
         mobj = null;
         System.gc();
     }
