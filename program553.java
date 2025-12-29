@@ -47,6 +47,7 @@ class MarvellousDBMS
         lobj = null;
     }
 
+    
     // insert into  employee values("Piyush",34,"Pune",11000);
     public void InsertIntoTable(String name, int age, String address, int salary)
     {
