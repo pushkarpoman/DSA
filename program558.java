@@ -8,6 +8,7 @@ class Employee
     public String Eaddress;
     public int Esalary;
 
+    
     public static int Counter;
 
     static
