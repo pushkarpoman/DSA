@@ -55,6 +55,7 @@ class MarvellousDBMS
         System.out.println("Record inserted succesfully into the table");
     }
 
+    
     // select * from Emplyee;
     public void SelectStarFrom()
     {
