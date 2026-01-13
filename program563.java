@@ -15,6 +15,7 @@ class Employee
         Counter = 1;
     }
 
+    
     public Employee(String B, int C, String D, int E)
     {
         Eno = Counter++;
