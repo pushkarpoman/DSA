@@ -8,6 +8,5 @@ class program571
 
         System.out.println(Arr.length); // 4
         System.out.println(Arr[0].length);  // 3
-        
     }
 }
