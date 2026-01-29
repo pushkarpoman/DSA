@@ -113,7 +113,6 @@ class Matrix
         }
     }
 }
-
 class program578
 {
     public static void main(String Arg[])
