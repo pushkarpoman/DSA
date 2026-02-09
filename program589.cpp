@@ -10,4 +10,5 @@ int main()
     cin.getline(Arr,30);
 
     cout<<"Your name is : "<<Arr<<"\n";
+    
 }
