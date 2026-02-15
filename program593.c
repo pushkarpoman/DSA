@@ -74,7 +74,6 @@ void MiddleElement(PNODE head)
     }
 
     printf("Middle element is : %d\n",temp->data);
-
 }
 
 int main()
