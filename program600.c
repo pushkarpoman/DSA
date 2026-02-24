@@ -57,6 +57,7 @@ int Count(PNODE head)
 }
 
 void MiddleElement(PNODE head)
+
 {
     int iCount = 0, i = 0;
     PNODE temp = head;
