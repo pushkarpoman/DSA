@@ -17,7 +17,6 @@ int main()
     return 0;
 }
 
-
 /*
     int iNo = 25        0   0   0   1   1   0   0   1
 
