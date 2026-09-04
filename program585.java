@@ -73,7 +73,6 @@ class Matrix
         return iCount;
     }
 
-
     public int SumEven()
     {
         int iSum = 0;
