@@ -30,4 +30,5 @@ int main()
     printf("Number is vowels : %d\n",iRet);
 
     return 0;
+    
 }
