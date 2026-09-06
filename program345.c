@@ -25,6 +25,7 @@ void InsertFirst(PPNODE head, PPNODE tail, int no)
         *tail = newn;
         (*tail) -> next = *head;
     }
+        
     else
     {
         newn->next = *head;
