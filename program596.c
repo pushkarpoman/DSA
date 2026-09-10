@@ -78,6 +78,7 @@ void MiddleElement(PNODE head)
 }
 
 void MiddleElementX(PNODE head)
+
 {
     PNODE Teacher = head;
     PNODE Student = head;
