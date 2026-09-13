@@ -1,6 +1,7 @@
 // Input : 5
 // Output :    2    4   6   8   10
         //    1*2   2*2  3*2    4*2     5*2  
+
 #include<stdio.h>
 
 void Display(int iNo)
