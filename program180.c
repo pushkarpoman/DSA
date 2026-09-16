@@ -17,6 +17,7 @@ void strtoggleX(char *str)
 }
 
 int main()
+
 {
     char Arr[30];
 
