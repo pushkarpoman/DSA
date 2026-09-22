@@ -14,6 +14,7 @@ bool Count(char *str, char ch)
         }
         str++;
     }
+    
     return bFlag;
 }
 
