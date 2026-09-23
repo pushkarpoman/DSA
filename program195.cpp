@@ -14,6 +14,7 @@ class Array
         }
 
         ~Array()
+
         {
             delete []Arr;
         }
