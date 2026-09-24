@@ -13,6 +13,7 @@ void Display(int *ptr, int iSize)
 }
 
 int main()
+
 {
     int Arr[4];
     int iCnt = 0;
