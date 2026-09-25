@@ -19,6 +19,7 @@ void DisplayR(char *str)
 }
 
 int main()
+
 {
     char Arr[30];
 
