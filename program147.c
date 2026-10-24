@@ -10,4 +10,5 @@ int main()
     printf("Your name is : %s\n",Arr);
     
     return 0;
+    
 }
