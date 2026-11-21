@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    
     int iLength = 0, iCnt = 0;
     int *Arr = NULL;
 
@@ -26,5 +27,6 @@ int main()
     delete []Arr;
 
     return 0;
+    
 }
 
