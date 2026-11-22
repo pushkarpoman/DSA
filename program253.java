@@ -19,5 +19,6 @@ class program253
         System.out.println(Arr[4]);
         
         System.out.println("Length of array is : "+Arr.length);
+        
     }
 }
