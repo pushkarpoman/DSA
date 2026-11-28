@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int CountSmall(char *ptr)
+
 {
     int iCount = 0;
 
